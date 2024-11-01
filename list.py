@@ -1,7 +1,6 @@
 ### list is similar to array but a little difference between that we can store differenct type of data
 
 ## SYNTAX
-
 list = [1, 3, 'a', "Faizan Siddique"]
 result =list[3]
 print(result)
